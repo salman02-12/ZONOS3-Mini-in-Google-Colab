@@ -2,7 +2,7 @@
 
 This repository provides a streamlined, easy-to-use Google Colab notebook for running **Zyphra/ZONOS3-Mini** directly in PyTorch. Using a lightweight 100M-active-parameter architecture (800M total) with a 15 Hz audio codec, it generates crisp **44.1 kHz** speech across **43 languages**, includes **27 built-in voices**, and performs **zero-shot voice cloning without needing a reference transcript**—all running smoothly on a free Google Colab T4 GPU.
 
-**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=soon)
+**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=7lEG7iG9qoI)
 
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/18PR4vBlQrgUmFkjaBoUhjgE6Y6SrxxaH?usp=sharing)
 
